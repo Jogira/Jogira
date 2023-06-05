@@ -30,4 +30,5 @@ Here are some technologies I'm familiar with:
 - 🌐 [Nexus Portfolio]([your-linkedin-url](https://www.jogira.github.io/Nexus/))
 - 💼 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/jonathangiraud/))
 
+You can that tell that I am a professional programmer because there are excessive emojis in my README.
 
