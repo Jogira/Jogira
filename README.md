@@ -2,7 +2,7 @@
 ### 👻 Welcome to the Zweiton Nexus 🎃
 
 
-Guten Tag, I'm Jonathan. I've already got one foot in the door as a software dev, but now I'm looking to get my entire body through.
+Guten Tag, I'm Jonathan, a junior full stack developer looking to gain more experience in the tech industry.
 
 
 <img src="https://github.com/Jogira/Jogira/assets/46968282/b9a2a22e-ec64-4154-9819-da719fc942bc" width=25% height=25%>
