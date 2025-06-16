@@ -1,30 +1,28 @@
+Welcome to the Zweiton Nexus
 
-### 👻 Welcome to the Zweiton Nexus 🎃
+Guten Tag, I'm Jonathan — a full stack software developer with 5 years of hands-on experience delivering web applications using C#, ASP.NET, JavaScript, and Python for dozens of satisfied clients.
 
+---
 
-Guten Tag, I'm Jonathan, a junior full stack developer looking to gain more experience in the tech industry.
+### 🐶 About Me
 
+- Graduated summa cum laude from VCU with a Bachelor's in Computer Science (Software Engineering focus)
+- Currently working with C# and ASP.NET MVC to build secure, scalable solutions for municipal clients
+- Experienced in working end-to-end: frontend UI, backend logic, API design, testing, deployment, and client interaction
+- Outside of coding, I’m passionate about dogs, retro tech (especially CRTs), Halloween, and animation
 
-<img src="https://github.com/Jogira/Jogira/assets/46968282/b9a2a22e-ec64-4154-9819-da719fc942bc" width=25% height=25%>
+---
 
-Here is a photo of not me because I value my privacy, but I assure you, I am a very real person. 
-## 🐧 About Me
+### 💻 Tech Stack
 
-- 🎓 Graduated with a summa cum laude from VCU with a Bachelor's degree in Computer Science and focus in software engineering.
-- 🌱 Currently mastering new tech stacks and sharpening my coding skills.
-- 💼 Actively seeking opportunities to work on exciting projects and collaborate with others who can challenge me.
-- ⭐ My goal: To bring innovative ideas to life and create software solutions that make a positive impact on the tech industry.
-- 🐶 Enthusiastic about dogs, cold weather, Halloween, and animation. Yes, the emojis are nonsense. 
-## 💻 Tech Stack
+**Languages**: C#, JavaScript, Python, TypeScript
+**Frameworks**: ASP.NET MVC, Django, React, Angular, Bootstrap 5
+**APIs & Tools**: ESRI ArcGIS API, REST/GraphQL, Postman, Cityworks
+**Databases**: SQL Server, MySQL  
+**Version Control**: Git, GitHub  
+**Deployment & Hosting**: IIS, GitHub Pages, Vercel  
+**Other**: Figma, Azure DevOps, Teamwork, GitKraken
 
-Here are some technologies I'm familiar with:
+---
 
-- 📛 Languages: Python, JavaScript, C#
-- 🎃 Web Development: HTML, CSS, React, Angular, Django
-- 🦇 Databases: MySQL, MongoDB
-- 🌿 Version Control: Git, GitHub
-- 🌙 Other Tools: VS Code, Figma, Postman
-
-
-<sub>You can that tell that I am a professional programmer because there are excessive emojis in my README.</sub>
-
+📫 Feel free to check out my pinned projects or reach out if you'd like to collaborate.
