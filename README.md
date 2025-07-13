@@ -1,6 +1,6 @@
 Welcome to the [Zweiton Nexus](https://jogira.github.io/Nexus/).
 
-Guten Tag, I'm Jonathan — a full stack software developer with 5 years of hands-on experience delivering web applications using C#, ASP.NET, JavaScript, and Python for dozens of satisfied clients.
+Guten Tag, I'm Jonathan — a full stack software developer with 5 years of hands-on experience delivering web applications using C#, ASP.NET, JavaScript, and Python for dozens of government and commerical clients.
 
 ---
 
